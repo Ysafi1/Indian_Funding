@@ -8,9 +8,9 @@ Indian Startup Funding Analysis.
 Funding is a crucial factor for the success of a start-up business, alongside ideas, team creativity, and execution. It provides the necessary capital for start-ups to think big, achieve growth, and make a lasting impact. In this project, we will analyze the funding received by start-ups in India between 2018 and 2021.  By examining this data, we aim to gain insights into the funding landscape and dynamics of the Indian start-up ecosystem during the specified time period.
 
 #### *Hypothesis*
-*H0*: The mean amount of funding received among sectors are equal.
+*H0*: The sector within which the startup finds itself doesn't influences the amount of funding it would receive.
 
-*H1*:  The mean amount of funding received among sectors are not equal.
+*H1*:  The sector within which the startup finds itself influences the amount of funding it would receive.
 
 
 #### *Data mining goals and Research Questions*
